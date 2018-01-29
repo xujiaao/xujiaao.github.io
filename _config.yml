@@ -79,3 +79,5 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/xujiaao/xujiaao.github.io.git
+  name: xujiaao
+  email: real.xujiaao@gmail.com
