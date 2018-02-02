@@ -81,3 +81,6 @@ deploy:
   repo: https://github.com/xujiaao/xujiaao.github.io.git
   name: xujiaao
   email: real.xujiaao@gmail.com
+
+# Gists
+gists_user: xujiaao
